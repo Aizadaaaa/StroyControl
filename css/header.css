@@ -1,0 +1,21 @@
+.button:hover {
+    background: white;
+    color:  212B31;
+    transition: .3s;
+}
+.logo {
+    color: #212B31;
+    font-size: 22px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.logo__img {
+    margin-right: 8px;
+}
+
+.picture{
+    text-align: center;
+}

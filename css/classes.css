@@ -1,0 +1,21 @@
+.container {
+    max-width: 1056;
+    margin: 0 auto;
+
+}
+.btn__white {
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+    border-radius: 4px;
+    padding: 13px 25px;
+    color: #212B31;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.btn__white:hover {
+    background: #212B31;
+    color: #FFFFFF;
+    transition: .3s;
+    cursor: pointer;
+}

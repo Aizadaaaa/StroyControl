@@ -1,0 +1,29 @@
+.help {
+    max-width: 325px;
+    text-align: center;   
+}
+.help__title {
+    color: #212B31;
+    font-weight: 400;
+    font-size: 32px;
+    max-width: 818px;
+    text-align: center;
+    font-family: 'Inter';
+}
+.help__name {
+    color: #212B31;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: 'Inter';
+
+}
+.help__description {
+    color: #72787D;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Inter';
+}
+.help__content {
+    display: flex;
+}
+    

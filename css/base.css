@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Inter";  
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+}
+li {
+    margin-left: 22px;
+    font-size: 16px;
+    color: #72787D;
+    transition: 0,5s;
+}
+li:hover{
+    color: blue;
+}
+
+button {
+    background: #212B31;
+    color: white;
+    border-radius: 4px;
+    padding: 9px 20px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+button:hover {
+    background: white;
+    color:#212B31;
+    transition: .3s;
+    cursor: pointer;
+}
+
